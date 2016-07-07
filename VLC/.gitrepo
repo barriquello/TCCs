@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/leonardozbreunig/VLC.git
+	branch = master
+	commit = 4064602dd0db1854334e2d007f48f5c51750ed75
+	parent = 8b3100c117a216fec9169c7d451410e4fd531f73
+	cmdver = 0.3.0
